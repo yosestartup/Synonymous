@@ -15,3 +15,7 @@ Frameworks used:
 2.SwiftyJSON
 
 3.Realm
+
+![alt text](https://raw.githubusercontent.com/yosestartup/Synonymous/temp/2018-03-14%2011.56.21.jpg)
+![alt text](https://raw.githubusercontent.com/yosestartup/Synonymous/temp/2018-03-14%2011.56.16.jpg)
+![alt text](https://raw.githubusercontent.com/yosestartup/Synonymous/temp/2018-03-14%2011.56.26.jpg)
